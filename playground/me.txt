@@ -1,5 +1,1 @@
-{{#user}}
-Name: Bonala Hemanth
-Skills: HTML, CSS,python,django,machine learning,data structures basics
-Email: hemanth.bonala11@gmail.com
-{{/user}}
+
